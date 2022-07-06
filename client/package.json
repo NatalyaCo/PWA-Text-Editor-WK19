@@ -1,5 +1,8 @@
 {
   "name": "TEG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
