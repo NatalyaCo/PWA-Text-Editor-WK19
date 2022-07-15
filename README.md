@@ -24,6 +24,10 @@ In order to test open the console and run the following:
 ### Questions:
 If you have any questions contact me on [GitHub](https://github.com/NatalyaCo) or contact 
 Natalya Colburn at natalya.c2022@yahoo.com  
+
+HEROKU LINK:
+https://wk19textedit.herokuapp.com/
+
  ![Screenshot (304)](https://user-images.githubusercontent.com/99770212/179293870-6f0acc92-2abc-427c-a0bd-80052d5ce895.png)
 ![Screenshot (305)](https://user-images.githubusercontent.com/99770212/179293883-a3772748-880b-4e24-9463-4fa1defcd27b.png)
 ![Screenshot (306)](https://user-images.githubusercontent.com/99770212/179293904-da23ab2b-75b3-4fbe-82b7-2718ccfa924c.png)
